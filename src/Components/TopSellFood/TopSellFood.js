@@ -15,10 +15,10 @@ const TopSellFood = () => {
       <Marquee duration={20000} background="#fafafa" height="250px"   pauseOnHover={true}>
        
       <div className='grid grid-cols-4 gap-7'>
-        <img src={img} className='h-60' alt="" />
-       <img src={img2} className='h-60' alt="" />
-       <img src={img3} className='h-60' alt="" />
-       <img src={img4} className='h-60' alt="" />
+        <img src={img} className='h-60 ' alt="" />
+       <img src={img2} className='h-60 ' alt="" />
+       <img src={img3} className='h-60 ' alt="" />
+       <img src={img4} className='h-60 ' alt="" />
       </div>
       </Marquee>
 

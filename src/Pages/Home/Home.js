@@ -4,6 +4,7 @@ import Blog from '../Blog/Blog';
 import Slider from '../Slider/Slider';
 import Services from '../Services/Services';
 import TopSellFood from '../../Components/TopSellFood/TopSellFood';
+import FlavourTesty from '../../Components/FlavourTesty/FlavourTesty';
 
 
 
@@ -16,7 +17,8 @@ const Home = () => {
            
             <Slider/>
             <Services/>
-           <TopSellFood/>
+            <TopSellFood/>
+            <FlavourTesty/>
             <About/>
             <Blog/>
 
