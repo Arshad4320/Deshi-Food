@@ -1,10 +1,11 @@
 import React from 'react';
-import About from '../About/About';
-import Blog from '../Blog/Blog';
+// import About from '../About/About';
+// import Blog from '../Blog/Blog';
 import Slider from '../Slider/Slider';
 import Services from '../Services/Services';
 import TopSellFood from '../../Components/TopSellFood/TopSellFood';
 import FlavourTesty from '../../Components/FlavourTesty/FlavourTesty';
+import FoodCard from '../../Components/FoodCard/FoodCard';
 
 
 
@@ -19,8 +20,9 @@ const Home = () => {
             <Services/>
             <TopSellFood/>
             <FlavourTesty/>
-            <About/>
-            <Blog/>
+            <FoodCard/>
+            {/* <About/>
+            <Blog/> */}
 
         </div>
     );

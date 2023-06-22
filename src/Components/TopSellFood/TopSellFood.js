@@ -9,7 +9,7 @@ import Marquee from "react-easy-marquee";
 const TopSellFood = () => {
     return (
        <div>
-            <h2 className='text-5xl text-orange-500 font-semibold text-center m-12'>Top Sell Food</h2>
+            <h2 className='text-5xl text-orange-500 font-semibold text-center py-20'>Top Sell Food</h2>
 
  
       <Marquee duration={20000} background="#fafafa" height="250px"   pauseOnHover={true}>

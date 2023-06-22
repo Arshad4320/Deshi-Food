@@ -8,7 +8,7 @@ import img6 from '../../assets/flavourImg/img6.jpg'
 const FlavourTesty = () => {
     return (
         <div>
-           <h2 className='text-5xl text-orange-500 font-semibold text-center m-12'>Flavour Testy</h2>
+           <h2 className='text-5xl text-orange-500 font-semibold text-center py-20'>Flavour Testy</h2>
 
            <div className='grid lg:grid-cols-6 md:grid-cols-2 sm:grid-cols-1 gap-7 mx-5'>
             

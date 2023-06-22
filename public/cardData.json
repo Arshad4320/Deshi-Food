@@ -1,0 +1,341 @@
+[
+    {
+        "id":1,
+        "name":"Haruns",
+        "country":"Indian",
+        "location":"Ne49 9de Curry, Kebab, Wrap",
+        "img":"https://i.ibb.co/dk0hrfy/img1.webp",
+        "logo":"https://i.ibb.co/Q6rvpGD/logo1.webp"
+    },
+     {
+        "id":2,
+        "name":"Afghan Grill House",
+        "country":"Afghan",
+        "location":"Ne4 5th, Kebab,Pizza ,Grill",
+        "img":"https://i.ibb.co/mSdmF4Q/img2.webp",
+        "logo":"https://i.ibb.co/dMcRw8p/logo2.webp"
+    },
+    {
+
+
+
+        "id":3,
+        "name":"The Tuck Box 10 % Off",
+        "country":"English",
+        "location":"NE24 5TG Breakfast, Sandwich",
+        "img":"https://i.ibb.co/6rpM3HY/img3.webp",
+        "logo":"https://i.ibb.co/Qmk9qvJ/logo3.webp"
+    },
+     {
+        "id":4,
+        "name":"Rajnagar 10% off",
+        "country":"Bangladeshi",
+        "location":"Ne4 9rs Curry, Biryani",
+        "img":"https://i.ibb.co/48WRwtq/img4.webp",
+        "logo":"https://i.ibb.co/tzzZzf0/logo4.webp"
+    },
+     {
+        "id":5,
+        "name":"Maharajs Lounge 10% of",
+        "country":"Indian",
+        "location":"NE24 2AA Curry, Kebab",
+        "img":"https://i.ibb.co/z4RHFRJ/img5.webp",
+        "logo":"https://i.ibb.co/0CH39Lw/logo5.webp"
+    },
+     {
+        "id":6,
+        "name":"Al Tiffin 10% Off",
+        "country":"Indian",
+        "location":"NE5 5BS Indian, Pizza",
+        "img":"https://i.ibb.co/qCJdTBG/img6.webp",
+        "logo":"https://i.ibb.co/nBv703Y/logo6.webp"
+    },
+     {
+        "id":7,
+        "name":"The Spice House",
+        "country":"Bangladeshi",
+        "location":"NE17 7HX Indian, Curry",
+        "img":"https://i.ibb.co/WBKc7pq/img7.webp",
+        "logo":"https://i.ibb.co/W04zDY6/logo7.webp"
+    },
+     {
+        "id":8,
+        "name":"Spice Fossway Tandoori 25% Off",
+        "country":"Indian",
+        "location":"NE6 4AR Curry, Pizza, Kebab",
+        "img":"https://i.ibb.co/kMwTp5p/img8.webp",
+        "logo":"https://i.ibb.co/DK00yPN/logo8.webp"
+    },
+     {
+        "id":9,
+        "name":"Bombay Nights",
+        "country":"Indian",
+        "location":"NE22 5AB Curry, Munchie",
+        "img":"https://i.ibb.co/xLbw2zt/img9.webp",
+        "logo":"https://i.ibb.co/mCxHrBS/logo9.webp"
+    },
+     {
+        "id":10,
+        "name":"The Last Days Of The Raj 10% Off",
+        "country":"Indian",
+        "location":"NE8 4JR Curry Biryani ",
+        "img":"https://i.ibb.co/f1CYsLb/img10.webp",
+        "logo":"https://i.ibb.co/M999HJ4/logo10.webp"
+    },
+     {
+        "id":11,
+        "name":"Eastern Delight 10% Off",
+        "country":"Bangladeshi",
+        "location":"NE28 7RH Curry, Pizza",
+        "img":"https://i.ibb.co/sRvBJYR/img11.webp",
+        "logo":"https://i.ibb.co/mHbmRCr/logo11.webp"
+    },
+     {
+        "id":12,
+        "name":"Muntaha Indian Takeaway 20% Off",
+        "country":"Indian",
+        "location":"DH1 5EE Curry, Tandoori",
+        "img":"https://i.ibb.co/f05PLkG/img12.webp",
+        "logo":"https://i.ibb.co/fX7vRFw/logo12.webp"
+    },
+     {
+        "id":13,
+        "name":"Shuhanas Fusion 10% Off",
+        "country":"Indian",
+        "location":"NE39 2LR Curry, Pizza",
+        "img":"https://i.ibb.co/2sh43Mp/img13.webp",
+        "logo":"https://i.ibb.co/5xWSJ8m/logo13.webp"
+    },
+     {
+        "id":14,
+        "name":"Foysals 10% Off",
+        "country":"Indian",
+        "location":"BH14 9HY Curry",
+        "img":"https://i.ibb.co/3dnbTrB/img14.webp",
+        "logo":"https://i.ibb.co/v1mGyqZ/logo14.webp"
+    },
+     {
+        "id":15,
+        "name":"Hotway",
+        "country":"Indian",
+        "location":"DH8 7SB Kebab, Pizza, Grill",
+        "img":"https://i.ibb.co/pPMbwkr/img15.webp",
+        "logo":"https://i.ibb.co/Rp48q75/logo15.webp"
+    },
+     {
+        "id":16,
+        "name":"Spice Delight",
+        "country":"Indian",
+        "location":"NE42 5ES Curry, Kebab, Pizza",
+        "img":"https://i.ibb.co/c3VhY4f/img16.webp",
+        "logo":"https://i.ibb.co/sjcfhcn/logo16.webp"
+    },
+     {
+        "id":17,
+        "name":"Rajbari 10% Off",
+        "country":"Indian",
+        "location":"NE5 1DT Curry, Balti",
+        "img":"https://i.ibb.co/xfqW2C3/img17.webp",
+        "logo":"https://i.ibb.co/Xbx1jmF/logo35.webp"
+    },
+     {
+        "id":18,
+        "name":"Classic Pizza 10% Off",
+        "country":"Kebab",
+        "location":"DL16 6BB Pizza, Kebab",
+        "img":"https://i.ibb.co/jrHWmLn/img18.webp",
+        "logo":"https://i.ibb.co/hc62BKH/logo18.webp"
+    },
+     {
+        "id":19,
+        "name":"Donapapa Pizza 10% Off",
+        "country":"Fast Food",
+        "location":"DH3 3AZ Pizza",
+        "img":"https://i.ibb.co/K7sM64w/img19.webp",
+        "logo":"https://i.ibb.co/5L57GbY/logo19.webp"
+    },
+     {
+        "id":20,
+        "name":"Millennium 10% Off",
+        "country":"Indian",
+        "location":"DH1 5EE Curry, Tandoori",
+        "img":"https://i.ibb.co/gTCy4Bk/img20.webp",
+        "logo":"https://i.ibb.co/ZfmxGKs/logo20.webp"
+    },
+     {
+        "id":21,
+        "name":"Pizza Time 10% Off",
+        "country":"Fast Food",
+        "location":"DH1 5EE Pizza, Kebab, Burger",
+        "img":"https://i.ibb.co/KGccZ02/img21.webp",
+        "logo":"https://i.ibb.co/64L99rX/logo21.webp"
+    },
+     {
+        "id":22,
+        "name":"Classic Desserts 10% off",
+        "country":"Desserts",
+        "location":"DL16 6BB Dessert,ice-cream",
+        "img":"https://i.ibb.co/sFSSmMD/img22.webp",
+        "logo":"https://i.ibb.co/4NZZyKk/logo22.webp"
+    },
+     {
+        "id":23,
+        "name":"Moti Mahal",
+        "country":"Indian",
+        "location":"NE11 9XJ Curry,Box set",
+        "img":"https://i.ibb.co/r5m3HyV/img23.webp",
+        "logo":"https://i.ibb.co/Jp8JKxc/logo23.webp"
+    },
+     {
+        "id":24,
+        "name":"Taste OF Kashmir 10% Off",
+        "country":"Indian",
+        "location":"LU3 2QQ Curry, Kebab",
+        "img":"https://i.ibb.co/HpZ65nn/img24.webp",
+        "logo":"https://i.ibb.co/0MfjR9W/logo24.webp"
+    },
+     {
+        "id":25,
+        "name":"Curry Master",
+        "country":"Indian",
+        "location":"LU3 2QL Curry, Set Meal",
+        "img":"https://i.ibb.co/WKDbk2X/img25.webp",
+        "logo":"https://i.ibb.co/59wm5xC/logo25.webp"
+    },
+     {
+        "id":26,
+        "name":"Naz 10% Off",
+        "country":"Indian",
+        "location":"LA12 7AF Curry, Cuisine",
+        "img":"https://i.ibb.co/dLBRzPy/img26.webp",
+        "logo":"https://i.ibb.co/SdkjwVD/logo26.webp"
+    },
+     {
+        "id":27,
+        "name":"Zeera Tandoori",
+        "country":"Indian",
+        "location":"DH1 5EJ Curry, Tandoori",
+        "img":"https://i.ibb.co/NmC7ZWT/img27.webp",
+        "logo":"https://i.ibb.co/DrDyFmG/logo27.webp"
+    },
+     {
+        "id":28,
+        "name":"New Darbar Cafe",
+        "country":"Pakistani",
+        "location":"LU4 8NP Breakfast ,Kebab ",
+        "img":"https://i.ibb.co/9tTX3TS/img28.webp",
+        "logo":"https://i.ibb.co/Bg4Qc0w/logo28.webp"
+    },
+     {
+        "id":29,
+        "name":"Razas 10% Off",
+        "country":"Pakistani",
+        "location":"NE5 5BS Burger,Kebab",
+        "img":"https://i.ibb.co/Qj7t3T8/img29.webp",
+        "logo":"https://i.ibb.co/n71snhY/logo29.webp"
+    },
+     {
+        "id":30,
+        "name":"Sfc Fried Chicken And Pizza 10% Off",
+        "country":"Fast Food",
+        "location":"LU6 3RZ Chicken, Pizza",
+        "img":"https://i.ibb.co/2N851Cq/img30.webp",
+        "logo":"https://i.ibb.co/86LhyKW/logo30.webp"
+    },
+     {
+        "id":31,
+        "name":"Tandoori Spice",
+        "country":"Indian",
+        "location":"BT37 0ZE Curry Pizza, Kebab",
+        "img":"https://i.ibb.co/t4PXfZj/img31.webp",
+        "logo":"https://i.ibb.co/XJQMkKT/logo31.webp"
+    },
+     {
+        "id":32,
+        "name":"The Sizzlin Pepperoni",
+        "country":"Indian",
+        "location":"NE15 7NL PIzza ,Kebab ,Burger",
+        "img":"https://i.ibb.co/Qb0jMJW/img32.webp",
+        "logo":"https://i.ibb.co/Dw7GZXX/logo32.webp"
+    },
+     {
+        "id":33,
+        "name":"Consett Dessert",
+        "country":"Bangladeshi",
+        "location":"DH8 5AZ Cake, ice-cream ,Waffles",
+        "img":"https://i.ibb.co/ynWZ5St/img33.webp",
+        "logo":"https://i.ibb.co/TkB4GKD/logo33.webp"
+    },
+     {
+        "id":34,
+        "name":"Mizan Tandoori",
+        "country":"Bangladeshi",
+        "location":"DH1 5JE Curry,Massala",
+        "img":"https://i.ibb.co/wsDMm6Z/img34.webp",
+        "logo":"https://i.ibb.co/3BK14th/logo34.webp"
+    },
+     {
+        "id":35,
+        "name":"Sake Sushi & Asian Fusion",
+        "country":"Asian",
+        "location":"BT4 3AB Sushi,Asian Fusion",
+        "img":"https://i.ibb.co/gmx7vrY/img35.webp",
+        "logo":"https://i.ibb.co/Xbx1jmF/logo35.webp"
+    },
+     {
+        "id":36,
+        "name":"Margarets Cafe",
+        "country":"British",
+        "location":"NE15 7NL Breakfast Dinner",
+        "img":"https://i.ibb.co/C2HCVxB/img36.webp",
+        "logo":"https://i.ibb.co/X2xrZ1q/logo36.webp"
+    },
+     {
+        "id":37,
+        "name":"Mirchi And Masala 15% Off",
+        "country":"Indian",
+        "location":"Ne4 6SQ, Kebab,Pizza ,Curry",
+        "img":"https://i.ibb.co/Msx91J2/img37.webp",
+        "logo":"https://i.ibb.co/WFJfmG9/logo37.webp"
+    },
+     {
+        "id":38,
+        "name":"Lunch Box",
+        "country":"British",
+        "location":"Ne4 9BN, Breakfast,Lunch",
+        "img":"https://i.ibb.co/bzXPMfR/img38.webp",
+        "logo":"https://i.ibb.co/Rp48q75/logo15.webp"
+    },
+     {
+        "id":39,
+        "name":"Burger World",
+        "country":"Turkish",
+        "location":"NE4 9PU, Burgers,Kebab",
+        "img":"https://i.ibb.co/BCPvZNW/img39.webp",
+        "logo":"https://i.ibb.co/31Fgy2J/logo39.webp"
+    },
+     {
+        "id":40,
+        "name":"Bobbys Grill House",
+        "country":"Lebanese",
+        "location":"NE6 1DS Kebab,Pizza",
+        "img":"https://i.ibb.co/dthB0pf/img40.webp",
+        "logo":"https://i.ibb.co/1bcHkR4/logo40.webp"
+    },
+     {
+        "id":41,
+        "name":"Bengal Cottage",
+        "country":"Indian",
+        "location":"BT6 9EQ Curry,Kebab",
+        "img":"https://i.ibb.co/mTySFZ5/img41.webp",
+        "logo":"https://i.ibb.co/xj6HGRd/logo41.webp"
+    },
+    {
+        "id":42,
+        "name":"Consett Dessert",
+        "country":"Bangladeshi",
+        "location":"DH8 5AZ Cake, ice-cream ,Waffles",
+        "img":"https://i.ibb.co/ynWZ5St/img33.webp",
+        "logo":"https://i.ibb.co/TkB4GKD/logo33.webp"
+    }
+]
