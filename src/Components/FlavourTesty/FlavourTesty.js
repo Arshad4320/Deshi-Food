@@ -8,14 +8,14 @@ import img6 from '../../assets/flavourImg/img6.jpg'
 const FlavourTesty = () => {
     return (
         <div>
-           <h2 className='text-5xl text-orange-500 font-semibold text-center py-20'>Flavour Testy</h2>
+           <h2 className='lg:text-5xl text-4xl text-orange-500 font-semibold text-center lg:p-20 p-16'>Flavour Testy</h2>
 
-           <div className='grid lg:grid-cols-6 md:grid-cols-2 sm:grid-cols-1 gap-7 mx-5'>
+           <div className='grid lg:grid-cols-6 md:grid-cols-2 sm:grid-cols-1 gap-7 mx-5 '>
             
-              <div className='p-7 hover:border-orange-500 hover:border-2 shadow-lg flex justify-center rounded-lg'>
-                  <div>
-                     <img src={img1} className='w-24 h-24' alt="" />
-                    <span className='text-2xl  font-semibold text-orange-500'>Vegetarian</span>
+              <div className='p-7 hover:border-orange-500  hover:border-2 shadow-lg flex justify-center rounded-lg '>
+                  <div className=''>
+                     <img src={img1} className='w-24 h-24 hover:rounded' alt="" />
+                    <span className='text-2xl   font-semibold text-orange-500 '>Vegetarian</span>
                   </div>
               </div>
 

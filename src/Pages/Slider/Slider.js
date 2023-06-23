@@ -5,19 +5,20 @@ const Slider = () => {
     return (
         <div className=''>
 
-           
-
-           
-         <div className='w-full h-3/5 relative '><img src={img2} className='w-full h-2/4 opacity-70 z-0' alt="" />
-        
+                    
+         <div className='mb-20 h-screen  '>
+        <img src={img2} className=' w-full  h-screen opacity-70     z-0' alt="" />
+  
          {/* title content  */}
-         <div className='absolute top-52 left-1/4 z-10'>
-            <h2 className='text-6xl font-bold text-slate-900'>Find Your Favourite</h2>
-            <p className='text-2xl font-semibold text-slate-800'>Dine within your nearest area or order online</p>
+         <div className='lg:-top-96 -top-80 -mt-8 mx-auto   relative z-10'>
+           <div className='text-center'>
+             <h2 className='lg:text-6xl text-4xl  font-bold text-slate-900'>Find Your Favourite</h2>
+            <p className='lg:text-2xl sm:xl font-semibold text-slate-800'>Dine within your nearest area or order online</p>
+           </div>
         </div> 
 
        {/* search box */}
-        <div className=' absolute flex align-center top-1/3 left-1/4 z-10 w-2/4 mt-6'> <input type="text" placeholder="Type here" className="input input-bordered  w-full  h-16  top-0  start-0" />
+        <div className=' relative mx-auto  z-10 lg:w-2/4 w-3/4  -top-80 lg:-top-96 mt-5 '> <input type="text" placeholder="Type here" className="  w-full   p-3 rounded-lg" />
         </div>
          </div>
         </div>

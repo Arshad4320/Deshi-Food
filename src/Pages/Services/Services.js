@@ -4,7 +4,7 @@ import img2 from '../../assets/BookingImage/img2.png'
 import img3 from '../../assets/BookingImage/img3.png'
 const Services = () => {
     return (
-        <div className='grid gap-9 mx-7 mt-12  lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
+        <div className='grid gap-9 mx-7   lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
            <div className='bg-red-700 flex p-9 rounded-md'>
             <div>
                 <p className='text-white font-semibold text-xl'>Select A Restaurant</p>

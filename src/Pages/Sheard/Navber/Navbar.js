@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-    <div className='shadow py-7 flex  justify-around bg-gray-100'>
+    <div className='shadow py-7   justify-around  hidden  bg-gray-100'>
         
       <div>
            <Link to='/'><span className='text-4xl font-bold text-orange-500'>DESHI</span> <span className='font-bold text-xl'>FOOD</span></Link>
